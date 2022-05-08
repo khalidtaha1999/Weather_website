@@ -11,7 +11,7 @@
 }
 .header{
     margin: auto;
-    width: 50%;
+    width: 85%;
     padding: 10px;
     text-align: center;
     border-bottom: solid rgb(204, 204, 204);
@@ -36,6 +36,8 @@ h1{
    
     padding: 5px;
     cursor: pointer;
+    margin-top: 13px;
+    margin-bottom: 60px;
 }
  
  #message-1{
@@ -53,7 +55,8 @@ h1{
 }
 
  .footer{
-     margin: 100px 300px ;
+     margin: 0 auto ;
+     width: 50%;
      border-bottom: #b5b6b8 solid;
      border-radius: 10px;
      padding: 30px;
@@ -62,7 +65,7 @@ h1{
      
  }
 .footer p{
-    text-align: left;
+    text-align: center;
     font-size: 17px;
     font-weight: 400;
 }
